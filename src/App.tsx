@@ -406,7 +406,7 @@ function App() {
         </Dialog>
 
         <div className="text-center mt-8 text-sm text-muted-foreground">
-          <p>ShadCN UI + React + Vite bilan yaratilgan ❤️</p>
+          <p>ShadCN UI + React + Vite bilan yaratilgan ❤️.</p>
         </div>
       </div>
     </div>
